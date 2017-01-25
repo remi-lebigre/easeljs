@@ -1,0 +1,11 @@
+{
+  "name": "easeljs",
+  "private": true,
+  "dependencies": {
+    "EaselJS": "easeljs#^0.8.2"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
